@@ -1,11 +1,16 @@
 _repo: Herrn-Dames-Aufzeichnungen-Begebenheiten-aus-einem-merkwurdigen-Stadtteil_57079
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57079-h/images/cover.jpg
 creator:
   author:
     agent_name: Reventlow, F. Gräfin zu
     gutenberg_agent_id: '49182'
     url: http://www.gutenberg.org/2009/agents/49182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57079#Herrn-Dames-Aufzeichnungen-Begebenheiten-aus-einem-merkwurdigen-Stadtteil
 gutenberg_issued: '2018-05-02'
 gutenberg_type: Text
 identifiers:
